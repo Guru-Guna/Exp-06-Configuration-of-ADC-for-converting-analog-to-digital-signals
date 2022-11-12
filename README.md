@@ -1,10 +1,10 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
 
 
-Name :	Kishore Kumar S
+Name : Gunaseelan G
 
 
-Roll no: 212221240023
+Roll no: 212221230031
   
   
 ## Aim: 
